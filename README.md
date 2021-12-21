@@ -17,3 +17,8 @@ Therefore, I handled this and just write anything I want in a comment, cut the t
 Of course, the feature above this is also available for inbox-chatting . You will find any message in any chat that has this problem fixed by automatically. and If you write a message and cut it and paste it somewhere you type the font, it will be modified automatically
 
 ### The extension works only on Facebook (for now).
+
+
+### Illustration video:
+Uploading deepin-screen-recorder_Select area_20211222000442.mp4…
+
