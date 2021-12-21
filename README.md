@@ -20,5 +20,4 @@ Of course, the feature above this is also available for inbox-chatting . You wil
 
 
 ### Illustration video:
-Uploading deepin-screen-recorder_Select area_20211222000442.mp4…
-
+https://user-images.githubusercontent.com/53763508/147011171-a9a2522e-51aa-442d-aaea-434e08b49d08.mp4
