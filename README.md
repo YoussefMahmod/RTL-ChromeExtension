@@ -23,7 +23,7 @@ Of course, the feature above this is also available for inbox-chatting . You wil
 https://user-images.githubusercontent.com/53763508/147011171-a9a2522e-51aa-442d-aaea-434e08b49d08.mp4
 
 
-### Aab Mix v2 (which i called it DirFix)
+### Aab Mix v2 (which i called it DirFix) (Better ux)
 
 https://user-images.githubusercontent.com/53763508/155347859-1730afa4-179e-4066-8acf-6c24387a4071.mp4
 
